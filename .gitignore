@@ -1,6 +1,7 @@
 # data will be released via data rpository
 data
-
+save
+graph
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
