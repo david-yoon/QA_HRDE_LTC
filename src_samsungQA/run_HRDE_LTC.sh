@@ -1,0 +1,1 @@
+python HRDE_Model_mem_SA.py --batch_size 64 --encoder_size 185 --context_size 30 --encoderR_size 40 --num_layer 1 --hidden_dim 300  --num_layer_con 1 --hidden_dim_con 300 --embed_size 300 --lr=0.001 --num_train_steps 100000 --valid_freq 50 --is_save 1 --graph_prefix 'HRDE_LTC_SA' --use_glove 1 --dr 0.7 --dr_con 1.0 --memory_dr 0.8 --memory_dim 64 --topic_size 4 --is_test 1

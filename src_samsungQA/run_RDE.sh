@@ -1,0 +1,1 @@
+python DE_Model_SA.py --batch_size 64 --encoder_size 40 --encoderR_size 700 --num_layer 1 --hidden_dim 100 --embed_size 300 --lr=0.001 --num_train_steps 50000 --valid_freq 50 --is_save 1 --graph_prefix 'RDE_SA' --use_glove 1 --dr 0.7
