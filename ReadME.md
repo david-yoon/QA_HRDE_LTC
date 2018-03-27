@@ -18,6 +18,8 @@
 >            / samsungQA /
 
 - Note that ubuntu_v1/v2 are originally from following git repository.
+<a href="https://github.com/npow/ubottu">ubuntu-v1</a>
+<a href="https://github.com/rkadlec/ubuntu-ranking-dataset-creator">ubuntu-v2</a>
 ----------
 ### [source code path]
 
