@@ -1,8 +1,8 @@
 
 
-## This repository contains code & data for following paper,
+## This repository contains the source code & data corpus for the models used in the following paper,
 
-**Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering**, NAACL-18
+**Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering**, NAACL-18, <a href="https://arxiv.org/abs/1710.03430">Arxiv:1710.03430</a>
 
 
 ----------
@@ -10,7 +10,8 @@
 
 ### [download dataset]
 
-- please download data file from release path and place each data file into following paht 
+- data corpus is available from "releases" tab
+- place each data corpus into following path of the project
  
 >     / data / ubuntu_v1 /
 >            / ubuntu_v2 /
