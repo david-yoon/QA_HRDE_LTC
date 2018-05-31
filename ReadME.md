@@ -2,7 +2,7 @@
 
 ## This repository contains the source code & data corpus for the models used in the following paper,
 
-**Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering**, NAACL-18, <a href="http://aclweb.org/anthology/N18-1142</a>
+**Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering**, NAACL-18, <a href="http://aclweb.org/anthology/N18-1142>paper</a>
 
 
 ----------
