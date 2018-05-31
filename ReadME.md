@@ -2,7 +2,7 @@
 
 ## This repository contains the source code & data corpus for the models used in the following paper,
 
-**Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering**, NAACL-18, <a href="https://arxiv.org/abs/1710.03430">Arxiv:1710.03430</a>
+**Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering**, NAACL-18, <a href="http://aclweb.org/anthology/N18-1142</a>
 
 
 ----------
@@ -67,12 +67,17 @@
 
 ### [cite]
 
-- We will update citation information as we'll get NAACL-18 proceedings :)
-- currently, arXiv version is available 
+- Please cite our paper, when you use our code | dataset | model.
 
->@article{yoon2017learning,
-  title={Learning to Rank Question-Answer Pairs using Hierarchical Recurrent Encoder with Latent Topic Clustering},
-  author={Yoon, Seunghyun and Shin, Joongbo and Jung, Kyomin},
-  journal={arXiv preprint arXiv:1710.03430},
-  year={2017}
+>@InProceedings{N18-1142,
+  author = 	"Yoon, Seunghyun
+		and Shin, Joongbo
+		and Jung, Kyomin",
+  title = 	"Learning to Rank Question-Answer Pairs Using Hierarchical Recurrent Encoder with Latent Topic Clustering",
+  booktitle = 	"Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)",
+  year = 	"2018",
+  publisher = 	"Association for Computational Linguistics",
+  pages = 	"1575--1584",
+  location = 	"New Orleans, Louisiana",
+  url = 	"http://aclweb.org/anthology/N18-1142"
 }
