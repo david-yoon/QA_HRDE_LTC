@@ -69,11 +69,11 @@
 
 - Please cite our paper, when you use our code | dataset | model.
 
-> @inproceedings{yoon2018learning,
-  title={Learning to Rank Question-Answer Pairs Using Hierarchical Recurrent Encoder with Latent Topic Clustering},
-  author={Yoon, Seunghyun and Shin, Joongbo and Jung, Kyomin},
-  booktitle={Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)},
-  volume={1},
-  pages={1575--1584},
-  year={2018}
-}
+>     @inproceedings{yoon2018learning, 
+>        title={Learning to Rank Question-Answer Pairs Using Hierarchical Recurrent Encoder with Latent Topic Clustering}, 
+>        author={Yoon, Seunghyun and Shin, Joongbo and Jung, Kyomin}, 
+>        booktitle={Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers)}, 
+>        volume={1},
+>        pages={1575--1584},
+>        year={2018} 
+>        }   
